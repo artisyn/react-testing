@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<input
+  placeholder="type some text here..."
+  type="text"
+/>
+`;
+
+exports[`test app renders learn react link 1`] = `
+<input
+  placeholder="type some text here..."
+  type="text"
+/>
+`;
